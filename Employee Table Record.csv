@@ -1,0 +1,111 @@
+id,name,department,age,salary,email,phone_no,company_name,marriage
+1,Arjun,HR,12,149238.00,arjun1@example.com,9260181590,TCS,single
+2,Aisha,Finance,53,53140.00,aisha2@example.com,9016613186,Infosys,single
+3,Rahul,IT,24,133377.00,rahul3@example.com,9913909960,Wipro,NULL
+4,Priya,Sales,35,31105.00,priya4@example.com,9824628194,HCL,NULL
+5,Vikram,Marketing,56,131971.00,vikram5@example.com,9219935181,"Tech Mahindra",NULL
+6,Neha,Operations,21,32812.00,neha6@example.com,9937865797,Accenture,married
+7,Aman,Support,44,64291.00,aman7@example.com,9323194875,Capgemini,NULL
+8,Sneha,Admin,49,62740.00,sneha8@example.com,9911862527,IBM,NULL
+9,Rohan,R&D,47,30138.00,rohan9@example.com,9189555979,Cognizant,NULL
+10,Pooja,"Data Analytics",50,34012.00,pooja10@example.com,9147104974,Deloitte,NULL
+11,Karan,HR,45,141266.00,karan11@example.com,9507529170,TCS,NULL
+12,Anjali,Finance,34,125693.00,anjali12@example.com,9423667127,Infosys,NULL
+13,Mohit,IT,46,97016.00,mohit13@example.com,9426846563,Wipro,NULL
+14,Kavya,Sales,30,35876.00,kavya14@example.com,9223307924,HCL,NULL
+15,Nikhil,Marketing,39,25536.00,nikhil15@example.com,9268599528,"Tech Mahindra",NULL
+16,Simran,Operations,60,110847.00,simran16@example.com,9078666617,Accenture,NULL
+17,Ritika,Support,46,33158.00,ritika17@example.com,9313721590,Capgemini,NULL
+18,Yash,Admin,27,25030.00,yash18@example.com,9928159013,IBM,NULL
+19,Saurabh,R&D,60,74313.00,saurabh19@example.com,9245957117,Cognizant,NULL
+20,Meera,"Data Analytics",50,87966.00,meera20@example.com,9741215472,Deloitte,NULL
+21,Riya,HR,54,28027.00,riya21@example.com,9385280841,TCS,NULL
+22,Aditya,Finance,37,92947.00,aditya22@example.com,9525388853,Infosys,NULL
+23,Ishita,IT,60,131366.00,ishita23@example.com,9336338750,Wipro,NULL
+24,Harsh,Sales,22,128561.00,harsh24@example.com,9474395755,HCL,NULL
+25,Tanvi,Marketing,26,53896.00,tanvi25@example.com,9137353799,"Tech Mahindra",NULL
+26,Ayush,Operations,21,87845.00,ayush26@example.com,9511637265,Accenture,NULL
+27,Divya,Support,26,129965.00,divya27@example.com,9676122202,Capgemini,NULL
+28,Manish,Admin,58,143600.00,manish28@example.com,9729975288,IBM,NULL
+29,Komal,R&D,29,27804.00,komal29@example.com,9018263304,Cognizant,NULL
+30,Deepak,"Data Analytics",34,63399.00,deepak30@example.com,9839548620,Deloitte,NULL
+31,Shreya,HR,43,142663.00,shreya31@example.com,9798682828,TCS,NULL
+32,Varun,Finance,53,27451.00,varun32@example.com,9729022279,Infosys,NULL
+33,Akash,IT,28,97938.00,akash33@example.com,9058887180,Wipro,NULL
+34,Naina,Sales,36,50074.00,naina34@example.com,9401878017,HCL,NULL
+35,Rakesh,Marketing,41,105285.00,rakesh35@example.com,9898347887,"Tech Mahindra",NULL
+36,Payal,Operations,53,148404.00,payal36@example.com,9384837261,Accenture,NULL
+37,Ritu,Support,46,82949.00,ritu37@example.com,9513613412,Capgemini,NULL
+38,Abhishek,Admin,44,43740.00,abhishek38@example.com,9427316723,IBM,NULL
+39,Sakshi,R&D,31,117579.00,sakshi39@example.com,9686563551,Cognizant,NULL
+40,Rohit,"Data Analytics",44,27553.00,rohit40@example.com,9587706589,Deloitte,NULL
+41,Ankit,HR,39,92143.00,ankit41@example.com,9113114402,TCS,NULL
+42,Muskan,Finance,38,124061.00,muskan42@example.com,9264628897,Infosys,NULL
+43,Aditi,IT,41,36725.00,aditi43@example.com,9402614014,Wipro,NULL
+44,Gaurav,Sales,26,104715.00,gaurav44@example.com,9314170586,HCL,NULL
+45,Nidhi,Marketing,38,106487.00,nidhi45@example.com,9208312402,"Tech Mahindra",NULL
+46,Shivam,Operations,33,147191.00,shivam46@example.com,9448347824,Accenture,NULL
+47,Preeti,Support,43,130339.00,preeti47@example.com,9040008838,Capgemini,NULL
+48,Tanya,Admin,51,57201.00,tanya48@example.com,9716786843,IBM,NULL
+49,Kunal,R&D,35,69918.00,kunal49@example.com,9326502014,Cognizant,NULL
+50,Dev,"Data Analytics",48,46397.00,dev50@example.com,9016849340,Deloitte,NULL
+51,Arjun,HR,50,49294.00,arjun51@example.com,9247045585,TCS,NULL
+52,Aisha,Finance,36,29515.00,aisha52@example.com,9435205617,Infosys,NULL
+53,Rahul,IT,38,90898.00,rahul53@example.com,9338014126,Wipro,NULL
+54,Priya,Sales,58,30461.00,priya54@example.com,9604431982,HCL,NULL
+55,Vikram,Marketing,64,76054.00,vikram55@example.com,9572492086,"Tech Mahindra",married
+56,Neha,Operations,53,43259.00,neha56@example.com,9889093100,Accenture,NULL
+57,Aman,Support,29,108508.00,aman57@example.com,9516780083,Capgemini,NULL
+58,Sneha,Admin,52,59575.00,sneha58@example.com,9071881817,IBM,NULL
+59,Rohan,R&D,37,131065.00,rohan59@example.com,9143337761,Cognizant,NULL
+60,Pooja,"Data Analytics",51,144336.00,pooja60@example.com,9409319254,Deloitte,NULL
+61,Karan,HR,40,106415.00,karan61@example.com,9920707413,TCS,NULL
+62,Anjali,Finance,52,63123.00,anjali62@example.com,9847771834,Infosys,NULL
+63,Mohit,IT,26,147716.00,mohit63@example.com,9704718746,Wipro,NULL
+64,Kavya,Sales,34,145134.00,kavya64@example.com,9319128452,HCL,NULL
+65,Nikhil,Marketing,59,132507.00,nikhil65@example.com,9841537760,"Tech Mahindra",NULL
+66,Simran,Operations,31,25470.00,simran66@example.com,9776426565,Accenture,NULL
+67,Ritika,Support,28,135130.00,ritika67@example.com,9505561304,Capgemini,NULL
+68,Yash,Admin,37,73787.00,yash68@example.com,9166915640,IBM,NULL
+69,Saurabh,R&D,38,38331.00,saurabh69@example.com,9042346853,Cognizant,NULL
+70,Meera,"Data Analytics",44,127910.00,meera70@example.com,9606883106,Deloitte,NULL
+71,Riya,HR,49,105598.00,riya71@example.com,9247082276,TCS,NULL
+72,Aditya,Finance,42,61929.00,aditya72@example.com,9444634786,Infosys,NULL
+73,Ishita,IT,28,46932.00,ishita73@example.com,9213878375,Wipro,NULL
+74,Harsh,Sales,49,81023.00,harsh74@example.com,9283312581,HCL,NULL
+75,Tanvi,Marketing,41,56342.00,tanvi75@example.com,9549306668,"Tech Mahindra",NULL
+76,Ayush,Operations,34,74396.00,ayush76@example.com,9450749528,Accenture,NULL
+77,Divya,Support,54,107526.00,divya77@example.com,9314366764,Capgemini,NULL
+78,Manish,Admin,22,41678.00,manish78@example.com,9067970168,IBM,NULL
+79,Komal,R&D,50,83844.00,komal79@example.com,9313228171,Cognizant,NULL
+80,Deepak,"Data Analytics",56,126824.00,deepak80@example.com,9002390424,Deloitte,NULL
+81,Shreya,HR,54,108399.00,shreya81@example.com,9611148936,TCS,NULL
+82,Varun,Finance,37,54305.00,varun82@example.com,9900847453,Infosys,NULL
+83,Akash,IT,51,93980.00,akash83@example.com,9383064003,Wipro,NULL
+84,Naina,Sales,52,140978.00,naina84@example.com,9614365370,HCL,NULL
+85,Rakesh,Marketing,34,119153.00,rakesh85@example.com,9656304813,"Tech Mahindra",single
+86,Payal,Operations,52,51268.00,payal86@example.com,9433734419,Accenture,NULL
+87,Ritu,Support,52,104966.00,ritu87@example.com,9237609260,Capgemini,NULL
+88,Abhishek,Admin,34,28097.00,abhishek88@example.com,9926002675,IBM,NULL
+89,Sakshi,R&D,28,35402.00,sakshi89@example.com,9253287046,Cognizant,NULL
+90,Rohit,"Data Analytics",44,68476.00,rohit90@example.com,9721014156,Deloitte,NULL
+91,Ankit,HR,28,98548.00,ankit91@example.com,9365461073,TCS,NULL
+92,Muskan,Finance,44,95979.00,muskan92@example.com,9735570636,Infosys,NULL
+93,Aditi,IT,23,74226.00,aditi93@example.com,9071043195,Wipro,NULL
+94,Gaurav,Sales,44,60692.00,gaurav94@example.com,9590454409,HCL,NULL
+95,Nidhi,Marketing,25,28179.00,nidhi95@example.com,9317764672,"Tech Mahindra",NULL
+96,Shivam,Operations,52,48978.00,shivam96@example.com,9042935575,Accenture,NULL
+97,Preeti,Support,59,35356.00,preeti97@example.com,9836236107,Capgemini,NULL
+98,Tanya,Admin,56,96383.00,tanya98@example.com,9526114913,IBM,NULL
+99,Kunal,R&D,27,80189.00,kunal99@example.com,9772326793,Cognizant,NULL
+100,Dev,"Data Analytics",55,136016.00,dev100@example.com,9144494544,Deloitte,NULL
+101,Arjun,HR,33,82592.00,arjun101@example.com,9323324935,TCS,NULL
+102,Aisha,Finance,25,76913.00,aisha102@example.com,9438831701,Infosys,NULL
+103,Rahul,IT,21,87228.00,rahul103@example.com,9375043103,Wipro,NULL
+104,Priya,Sales,59,133517.00,priya104@example.com,9931582794,HCL,NULL
+105,Vikram,Marketing,21,38864.00,vikram105@example.com,9995305520,"Tech Mahindra",NULL
+106,Neha,Operations,34,58412.00,neha106@example.com,9093056529,Accenture,NULL
+107,Aman,Support,40,35215.00,aman107@example.com,9307871616,Capgemini,NULL
+108,Sneha,Admin,56,45257.00,sneha108@example.com,9812646446,IBM,NULL
+109,Rohan,R&D,24,65941.00,rohan109@example.com,9956605366,Cognizant,NULL
+110,Pooja,"Data Analytics",34,148468.00,pooja110@example.com,9062611695,Deloitte,NULL
